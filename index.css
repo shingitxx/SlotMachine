@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+  /* widthにpaddingとborderを含めて計算を簡単にするため */
+}
+.container {
+    font-weight: bold;
+		border: solid 3px #000000;
+}
+.item {
+	width: 25%;
+	height: 25%;
+	font-size: 33%;
+}
